@@ -21,3 +21,10 @@ https://github.com/yousefelassal/spotlight-button/assets/76617202/5c5328a7-c4a3-
     </div>
 </button>
 ```
+
+- Create a conic gradient with the size of both sides set to 100% of the parent element's width, using `cqw` units – `h-[100cqw]` and `w-[100cqw]`.
+- Apply the `spin` animation to the element. You can adjust the duration using square bracket notation: `[animation-duration:3s]`.
+
+    https://github.com/yousefelassal/spotlight-button/assets/76617202/ada98f6b-d505-487a-a967-2d7e136f7e78
+
+- 
